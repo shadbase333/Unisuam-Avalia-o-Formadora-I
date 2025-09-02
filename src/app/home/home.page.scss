@@ -1,0 +1,15 @@
+ion-card img {
+  width: 150px;       /* largura da imagem */
+  height: 150px;      /* altura da imagem */
+  border-radius: 50%; /* deixa a imagem redonda */
+  object-fit: cover;  /* mantém proporção e corta o excesso */
+  display: block;
+  margin: 0 auto;     /* centraliza a imagem */
+}
+
+
+ion-card {
+  padding: 20px;          /* aumenta o espaço interno do card */
+  border-radius: 12px;    /* mantém cantos arredondados */
+  text-align: center;     /* centraliza conteúdo */
+}

@@ -1,0 +1,7 @@
+{
+  "name": "CartaoID",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
